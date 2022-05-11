@@ -14,15 +14,9 @@ Checkpoint file download link:
 
 
 
-Put the .checkpoint file in the checkpoints dictionary
+Put the checkpoint file in the checkpoints dictionary
 
-——bigdetection——**checkpoints**——.checkpoint
-
-​             ——configs
-
-​							——demo
-
-​             ——......
+'bigdetection/checkpoints/* .pth'
 
 
 
